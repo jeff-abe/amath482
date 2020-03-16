@@ -5,8 +5,8 @@ The 5 Projects were my executions of open ended projects the prompts for which a
 
 ## An Overview of the Projects
 
-- Project 1
-- Project 2
-- Project 3
-- Project 4
-- Project 5
+- Project 1: Applications of FFT to Filtering Noise from Ultrasound Data
+- Project 2: Time Frequency Analysis Applied to Music 
+- Project 3: Principle Component Analysis on Videos of Simple Harmonic Oscillators
+- Project 4: Using Linear Discriminant Analysis to Build a Tertiary Classiﬁer for Music
+- Project 5: An Introduction to Neural Networks for Classiﬁcation of the Fashion-MNIST Dataset
